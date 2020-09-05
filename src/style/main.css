@@ -1,0 +1,68 @@
+nav {
+  height: 70px;
+}
+
+.title-food h4 {
+  margin-top: 20px;
+  color: #ef9b0f;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.jumbotron {
+  height: 400px;
+  width: 100%;
+}
+
+.jumbotron .intro {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: url("/src/images/bannerfood.png");
+}
+
+.jumbotron .text-banner {
+  color: #ffff;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+.btn-gofood {
+  font-size: 18px;
+}
+
+.card-food {
+  margin-bottom: 50px;
+}
+
+.text-category {
+  margin-top: -8px;
+}
+
+.text-desc {
+  margin-top: -8px;
+}
+
+.img-food img {
+  border-radius: 11;
+}
+
+.img-food img:hover {
+  transition: transform .2s;
+}
+
+footer {
+  background-color: #ef9b0f;
+}
+
+a {
+  color: #ffff;
+  font-size: 20px;
+}
+
+.icon-footer {
+  margin-top: 30px;
+  margin-left: 50px;
+}
